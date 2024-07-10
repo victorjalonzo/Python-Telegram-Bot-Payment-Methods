@@ -41,6 +41,9 @@ BOT_TOKEN="YOUR_BOT_TOKEN"
 #Replace it with your Telegram profile link
 PROFILE_LINK="YOUR_PROFILE_LINK"
 
+#The price of your service or product
+PRICE="YOUR_PRICE YOUR_CURRENCY"
+
 #Replace it with your payment method. If you're not using one of them, remove it. 
 PRICE="YOUR_PRICE"
 CASHAPP="YOUR_CASHAPP"
