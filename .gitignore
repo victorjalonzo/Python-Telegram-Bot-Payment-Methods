@@ -1,0 +1,6 @@
+/venv
+.vnev
+.env
+*.session
+*.mp4
+/__pycache__
