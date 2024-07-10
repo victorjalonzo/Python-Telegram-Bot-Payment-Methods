@@ -58,7 +58,7 @@ ETHEREUM="YOUR_ETHEREUM"
 ```
 Replace the placeholders with your corresponding information.
 
-### 4. Create a folder with the name "preview" and insert a video in the folder with the name "preview.mp4" it should looks like this:
+### 4. Insert a video in the folder preview with the name "preview.mp4" it should looks like this:
 ```bash
 ├── main.py
 ├── preview
